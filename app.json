@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bunit-report",
+    "slug": "bunit-report",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bunit-report"
+}
