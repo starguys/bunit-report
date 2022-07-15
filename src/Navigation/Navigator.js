@@ -12,7 +12,7 @@ import Mypage from "../Screen/Mypage";
 const Stack = createBottomTabNavigator();
 
 export default () => (
-  <Stack.Navigator>
+  <Stack.Navigator screenOptions={{ headerShown: false }}>
     <Stack.Screen
       name="Home"
       component={Home}
